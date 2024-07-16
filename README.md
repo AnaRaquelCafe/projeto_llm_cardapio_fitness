@@ -1,6 +1,6 @@
 # Criando um RAG (Retrieve Augmented Generation) com o modelo Gemini 📝🏋️‍♂️
 
-![image](https://github.com/user-attachments/assets/d198d390-ab98-47ea-aef0-b8e83e0a53cd)
+![disney](https://github.com/user-attachments/assets/ebec53f5-cb83-4069-bb7b-f7814e6882fb)
 
 **Você conhece o RAG?**
 
